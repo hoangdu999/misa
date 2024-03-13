@@ -1,0 +1,18 @@
+@import url(./components/icon.css);
+@import url(./components/tool-tip.css);
+@font-face {
+  font-family: GoogleSans-Regular;
+  src: url(../fonts/notosans-regular.2cb88a13.woff2);
+}
+@font-face {
+  font-family: GoogleSans-Bold;
+  src: url(../fonts/notosans-bold.3ede5aff.woff2);
+}
+@font-face {
+  font-family: GoogleSans-Italic;
+  src: url(../fonts/notosans-italic.1c1aaac9.woff2);
+}
+@font-face {
+  font-family: GoogleSans-Semibold;
+  src: url(../fonts/notosans-semibold.df3e6dc4.woff2);
+}
